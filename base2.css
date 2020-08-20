@@ -209,7 +209,7 @@ div[data-ref-id="guildsnav"]>.wrapper-21YSNc {
 	height: 25px;
 	width: var(--ServerSize);
 	left: 5px;
-	top: calc(20px + var(--ServerSize));
+	top: calc(30px + var(--ServerSize));
 }
 
 .panels-j1Uci_>.container-3baos1 {
