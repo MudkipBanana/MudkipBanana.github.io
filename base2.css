@@ -208,7 +208,7 @@ div[data-ref-id="guildsnav"]>.wrapper-21YSNc {
 	padding: 0;
 	height: 25px;
 	width: var(--ServerSize);
-	left: -5px;
+	left: 0px;
 	top: calc(15px + var(--ServerSize));
 }
 
