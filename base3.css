@@ -14,14 +14,6 @@
 	--user-background: url('https://i.imgur.com/pqdICWJ.gif');
 }
 
-/*Overcreate#7117 and Overcreate#1865*/
-
-[user_by_bdfdb*="743606486063644673"],
-[data-user-id*="743606486063644673"],
-[user_by_bdfdb*="467027126210527232"],
-[data-user-id*="467027126210527232"] {
-	--user-background: url('https://i.imgur.com/gJ8urDv.jpg');
-}
 
 /*Spectra#7698*/
 
